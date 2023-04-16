@@ -14,5 +14,10 @@ HTTP1.1 新增了五种请求方法：OPTIONS, PUT, DELETE, TRACE 和 CONNECT �
 FYIhttps://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT
 
 [HTTP MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECTA)
+
+### 4.
+请求行
+请求头
+
 ### 状态码：
 200 - 请求成功
