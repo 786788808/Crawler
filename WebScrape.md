@@ -16,8 +16,10 @@ FYIhttps://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECT
 [HTTP MDN](https://developer.mozilla.org/en-US/docs/Web/HTTP/Methods/CONNECTA)
 
 ### 4.
-请求行
-请求头
+Request Line:请求行  
+Header:请求头  
+(空行)  
+Request Body:请求体  
 
 ### 状态码：
 200 - 请求成功
