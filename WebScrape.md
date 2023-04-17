@@ -20,9 +20,14 @@ Request Line:请求行
 Header:请求头  
 (空行)  
 Request Body:请求体  
-响应行  
-响应消息头  
-响应消息体  
+
+###
+r = requests.post(url=fileURL, data=payload, headers=headers, proxies=proxies)  
+
+### 
+响应行   
+响应消息头    
+响应消息体   
 
 ### 状态码：
 200 - 请求成功  
