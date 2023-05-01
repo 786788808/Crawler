@@ -8,7 +8,8 @@
 - HTML 文档也叫做 web 页面
 
 初体验，自己写一小段，rename to Hush_demo.html, and then 拖到浏览器。恭喜你，测试第一段 html 完毕  ：
-```<!DOCTYPE html>
+```
+<!DOCTYPE html>
 <html>
 <head>
 <meta charset="utf-8">
